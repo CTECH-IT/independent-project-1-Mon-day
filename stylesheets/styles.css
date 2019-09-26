@@ -1,1 +1,9 @@
 /* Put your CSS here */
+ul {
+  background: #c4c0c0;
+  padding: 20px;
+}
+ul li {
+  background: #332727;
+  margin: 5px;
+}
