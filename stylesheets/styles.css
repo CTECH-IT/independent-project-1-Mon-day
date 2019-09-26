@@ -1,9 +1,35 @@
 /* Put your CSS here */
 ul {
-  background: #c4c0c0;
-  padding: 20px;
+  background: #FFD5DB;
+  margin: 50px;
+  opacity: 0.8;
+  padding: 30px;
 }
-ul li {
-  background: #332727;
-  margin: 5px;
+
+ul li{
+  background: #8FA6B6;
+  color: white;
+  display: block;
+  margin: 10px;
+  padding: 10px
+}
+
+body {
+  background-image: linear-gradient(to right, #f5f5f5, #c2b6b6, #b5aaaa, #c2b6b6, #f5f5f5);
+}
+
+.fronttext {
+  color: grey;
+}
+
+.page-title {
+  color: #8c7478;
+  font-size: 50px;
+  text-align: center;
+}
+
+.staffname {
+  background: #8FA6B6;
+  color: white;
+  display: block;
 }
