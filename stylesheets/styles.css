@@ -26,6 +26,12 @@ body {
   flex-direction: column;
 }
 
+.biography {
+  display: block;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
 
 .mContent {
   display: flex;
